@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "693478906385",
+    "firebase_url": "https://fir-crudexample-8ac2d.firebaseio.com",
+    "project_id": "fir-crudexample-8ac2d",
+    "storage_bucket": "fir-crudexample-8ac2d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:693478906385:android:72f8a0765abc4ee739efb0",
+        "android_client_info": {
+          "package_name": "com.tinatang.firebase_crud_example"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "693478906385-9kp16srrcr7gdpn5e6i5068ngurouqio.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tinatang.firebase_crud_example",
+            "certificate_hash": "7540ede4b550839947c470b4f1550da690735fc8"
+          }
+        },
+        {
+          "client_id": "693478906385-odtrmd4ua8s7ha7ahod02ek28cvdfgd2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBE78mJPRc0dQX75oFGHPkznCaxHqmMB0w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "693478906385-odtrmd4ua8s7ha7ahod02ek28cvdfgd2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
